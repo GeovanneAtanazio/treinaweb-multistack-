@@ -20,3 +20,6 @@
 - Apagar arquivo `Home.module.css`
 - Arrumar caminhos da importação em `_app.tsx`
 - Jogar imagens na pasta `public`
+
+## Configurações do Projeto
+- Instalação de dependências: `npm i @mui/material @emotion/react @emotion/styled axios react-input-mask`
