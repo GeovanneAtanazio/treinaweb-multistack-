@@ -25,3 +25,14 @@
 - Instalação de dependências: `npm i @mui/material @emotion/react @emotion/styled axios react-input-mask`
 
 # Dia 2
+
+## Comunicação com API externa
+- Link da API externa: https://ediaristas-workshop.herokuapp.com
+- Endpoint: https://ediaristas-workshop.herokuapp.com/api/diaristas-cidade?cep=
+- Endpoint com retorno: https://ediaristas-workshop.herokuapp.com/api/diaristas-cidade?cep=01001000
+- Endpoint sem retorno: https://ediaristas-workshop.herokuapp.com/api/diaristas-cidade?cep=12506060 
+
+# Dia 3
+
+
+
