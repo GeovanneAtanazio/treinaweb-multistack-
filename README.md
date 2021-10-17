@@ -34,5 +34,11 @@
 
 # Dia 3
 
+## Criação do Projeto
+- [Instruções de configuração - Windows](https://www.treinaweb.com.br/blog/configurando-o-ambiente-de-desenvolvimento-php-laravel-no-windows)
+- [Instruções de configuração - Linux](https://www.treinaweb.com.br/blog/configurando-o-ambiente-de-desenvolvimento-php-laravel-no-linux)
+- [Instruções de configuração - macOS](https://www.treinaweb.com.br/blog/configurando-o-ambiente-de-desenvolvimento-php-laravel-no-macos)
+- Crianção do projeto: `composer create-project laravel/laravel e-diaristas`
+- Inicialização do servidor: `php artisan serve`
 
 
