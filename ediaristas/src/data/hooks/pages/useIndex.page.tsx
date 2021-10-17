@@ -1,5 +1,5 @@
 import { useState, useMemo } from "react";
-import { UserShortInterface } from "data/@types/userInterface";
+import { UserShortInterface } from "data/@types/UserInterface";
 import { ValidationService } from "data/services/ValidationService";
 import { ApiService } from "data/services/ApiService";
 
