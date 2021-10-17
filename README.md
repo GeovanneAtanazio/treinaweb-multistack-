@@ -23,3 +23,5 @@
 
 ## Configurações do Projeto
 - Instalação de dependências: `npm i @mui/material @emotion/react @emotion/styled axios react-input-mask`
+
+# Dia 2
